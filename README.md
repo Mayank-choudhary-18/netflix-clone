@@ -1,2 +1,1 @@
-# coursera-test
-coursera test repository
+a new project of fontend wweb development
